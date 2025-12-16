@@ -1,0 +1,1 @@
+$env:USE_CREW_KICKOFF="1"; python .\agents_orchestrator_crew.py
